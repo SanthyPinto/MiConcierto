@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"mi-concierto.concerts"},{"v":2,"key":{"date":-1},"name":"date_-1","ns":"mi-concierto.concerts"}],"uuid":"f02f7d41f5784f71be4a505b83b4f39d"}
